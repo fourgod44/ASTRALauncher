@@ -1,8 +1,8 @@
-appId: 'mrslauncher'
-productName: 'MRS Launcher'
-artifactName: 'MRS-Launcher-setup-${version}.${ext}'
+appId: 'astralauncherr'
+productName: 'ASTRA Launcher'
+artifactName: 'ASTRA-Launcher-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Daniel Scalzi, Copyright © 2024 peunsu'
+copyright: 'Copyright © 2025 fourgod'
 
 asar: true
 compression: 'maximum'
@@ -12,6 +12,10 @@ files:
 
 extraResources:
   - 'libraries'
+
+publish:
+  provider: 'generic'
+  url: 'http://211.248.94.152/workspace/'
 
 # Windows Configuration
 win: 
