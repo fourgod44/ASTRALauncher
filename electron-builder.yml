@@ -15,7 +15,7 @@ extraResources:
 
 publish:
   provider: 'generic'
-  url: 'http://82.21.82.136/workspace/'
+  url: 'http://210.204.157.130/workspace/'
 
 # Windows Configuration
 win: 
