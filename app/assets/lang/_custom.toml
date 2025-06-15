@@ -8,8 +8,8 @@ mediaLinkURL = "#"
 mediaGitHubURL = "https://github.com/fourgod44/AstraLauncher"
 mediaXURL = "#"
 mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/6zWCHNRdua"
+mediaYouTubeURL = "https://www.youtube.com/@%EA%B5%B0%EC%9D%B8%EC%93%B0"
+mediaDiscordURL = "https://discord.gg/q93YJ74pQU"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/fourgod44/AstraLauncher"
